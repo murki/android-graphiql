@@ -32,9 +32,20 @@ proguard/
 # Android Studio captures folder
 captures/
 
-# Intellij
+# IntelliJ IDEA - ignore everything except code configs
+.idea
+*.ipr
+*.iws
 *.iml
-.idea/workspace.xml
+gen-external-apklibs
+*.properties
 
 # Keystore files
 *.jks
+
+# Other
+*.DS_Store
+tmp
+*.orig
+acme.dump
+ajcore.*.txt
