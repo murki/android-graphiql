@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">graphiql</string>
+    <string name="query_button_text">Query GraphQL</string>
+    <string name="graphql_uri_text">GraphQL URI</string>
+    <string name="graphql_auth_token">Bearer Token (optional)</string>
+    <string name="graphql_query">GraphQL Query</string>
 </resources>
